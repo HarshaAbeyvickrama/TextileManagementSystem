@@ -1,0 +1,16 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+.label{
+    /*-fx-text-fill : "#6200EE";*/
+}
+.text-field,text-field,jfx-button{
+
+}
+.inputText{
+    -fx-text-fill : "#ffffff";
+}
